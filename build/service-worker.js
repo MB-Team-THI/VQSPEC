@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/VQSPEC/precache-manifest.70b0c05a89be18e39149ffd29efa8762.js"
+  "/pub/VQSPEC/precache-manifest.fa2d85ca0872328493ea48523deefd4a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/VQSPEC/index.html", {
+workbox.routing.registerNavigationRoute("/pub/VQSPEC/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
