@@ -1,13 +1,13 @@
 {
-  "main.css": "/pub/VQSPEC/static/css/main.239377ab.chunk.css",
-  "main.js": "/pub/VQSPEC/static/js/main.942e599a.chunk.js",
-  "main.js.map": "/pub/VQSPEC/static/js/main.942e599a.chunk.js.map",
-  "static/js/1.d41fcd46.chunk.js": "/pub/VQSPEC/static/js/1.d41fcd46.chunk.js",
-  "static/js/1.d41fcd46.chunk.js.map": "/pub/VQSPEC/static/js/1.d41fcd46.chunk.js.map",
-  "runtime~main.js": "/pub/VQSPEC/static/js/runtime~main.5c119dbb.js",
-  "runtime~main.js.map": "/pub/VQSPEC/static/js/runtime~main.5c119dbb.js.map",
-  "static/css/main.239377ab.chunk.css.map": "/pub/VQSPEC/static/css/main.239377ab.chunk.css.map",
-  "index.html": "/pub/VQSPEC/index.html",
-  "precache-manifest.fa2d85ca0872328493ea48523deefd4a.js": "/pub/VQSPEC/precache-manifest.fa2d85ca0872328493ea48523deefd4a.js",
-  "service-worker.js": "/pub/VQSPEC/service-worker.js"
+  "main.css": "/VQSPEC/static/css/main.239377ab.chunk.css",
+  "main.js": "/VQSPEC/static/js/main.75abee7d.chunk.js",
+  "main.js.map": "/VQSPEC/static/js/main.75abee7d.chunk.js.map",
+  "static/js/1.d41fcd46.chunk.js": "/VQSPEC/static/js/1.d41fcd46.chunk.js",
+  "static/js/1.d41fcd46.chunk.js.map": "/VQSPEC/static/js/1.d41fcd46.chunk.js.map",
+  "runtime~main.js": "/VQSPEC/static/js/runtime~main.ec87ecee.js",
+  "runtime~main.js.map": "/VQSPEC/static/js/runtime~main.ec87ecee.js.map",
+  "static/css/main.239377ab.chunk.css.map": "/VQSPEC/static/css/main.239377ab.chunk.css.map",
+  "index.html": "/VQSPEC/index.html",
+  "precache-manifest.1569e26223d7c2b98a9ef39ebd2f7124.js": "/VQSPEC/precache-manifest.1569e26223d7c2b98a9ef39ebd2f7124.js",
+  "service-worker.js": "/VQSPEC/service-worker.js"
 }
